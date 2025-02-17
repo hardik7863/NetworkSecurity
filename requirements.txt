@@ -5,4 +5,5 @@ pymongo
 certifi
 pymongo[serv]
 scikit-learn
+pyaml
 # -e .
