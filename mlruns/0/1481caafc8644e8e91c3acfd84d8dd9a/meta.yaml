@@ -1,0 +1,15 @@
+artifact_uri: file:///home/hardik/Desktop/19-ETLpipeline/mlruns/0/1481caafc8644e8e91c3acfd84d8dd9a/artifacts
+end_time: 1740124702368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1481caafc8644e8e91c3acfd84d8dd9a
+run_name: chill-finch-345
+run_uuid: 1481caafc8644e8e91c3acfd84d8dd9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740124695599
+status: 4
+tags: []
+user_id: hardik
