@@ -2,3 +2,4 @@ venv
 .env
 logs
 notes.ipynb
+.vercel
